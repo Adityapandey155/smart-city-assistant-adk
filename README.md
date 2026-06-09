@@ -50,3 +50,5 @@ Clone the repository:
 ```bash
 git clone <your-repository-url>
 cd <repository-name>
+
+pip install -r requirements.txt
